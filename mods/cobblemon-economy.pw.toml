@@ -1,0 +1,8 @@
+name = "cobblemon-economy"
+filename = "cobblemon-economy-0.0.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zfVCrbFk/versions/p9SFZULm/cobblemon-economy-0.0.19.jar"
+hash-format = "sha512"
+hash = "926455b93153f427935af080ccf661b046cdddb45e05952664688a0d2b059abb28b3f23f8a7aad6ed36ef290d7bffc235a7a3239c876e57bc527a2d6503d452d"

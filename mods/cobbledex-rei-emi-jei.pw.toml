@@ -1,0 +1,8 @@
+name = "cobbledex-rei-emi-jei"
+filename = "cobbledex-rei-emi-jei-fabric-2.28.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qekxLrOP/versions/zBJSRRPG/cobbledex-rei-emi-jei-fabric-2.28.8.jar"
+hash-format = "sha512"
+hash = "7cc1b7f5d238267b505f828eb0e727bacb1bd1540b88b6dac5b83cbb3960da1d74b0df98a35fd4435c7762d1a8caba0f2e1a6c4952487d3ec13efcb4b5f068a8"

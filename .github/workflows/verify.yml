@@ -1,0 +1,24 @@
+name: verify-pack
+# Installs the pack exactly the way a player's launcher does (client side), so a bad hash or dead link fails here, not for players.
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  install:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/setup-java@v4
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+      - name: Install the pack like a player would
+        run: |
+          mkdir -p game && cd game
+          curl -sSL -o packwiz-installer-bootstrap.jar https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar
+          java -jar packwiz-installer-bootstrap.jar -g -s client "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${GITHUB_SHA}/pack.toml"
+          echo "mods: $(ls mods | wc -l)"
+          test "$(ls mods/*.jar | wc -l)" -ge 60
+          test -f config/xaerohud.txt
+          test -f cobbledex-sprites/pokemon_atlas.png

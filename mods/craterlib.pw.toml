@@ -1,0 +1,8 @@
+name = "craterlib"
+filename = "CraterLib-Fabric-1.21-3.1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/eFJWjwml/CraterLib-Fabric-1.21-3.1.3.jar"
+hash-format = "sha512"
+hash = "d6ea5998449a6df5f2aeb2e00cff94a0064c6eebedade1deb414a57b551217bf6606e0dd41b0eb7b56b842bad227f51507a777088b9dd36ed6d60daf5a61f7e5"

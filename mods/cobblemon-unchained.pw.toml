@@ -1,0 +1,8 @@
+name = "cobblemon-unchained"
+filename = "unchained-fabric-1.8.1-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/IAve25Sa/unchained-fabric-1.8.1-1.7.1.jar"
+hash-format = "sha512"
+hash = "8b664207eee9385ca73101c1a142b248a21ccc1fd55a2f7c39afad17d70a3bc1e974d3a74f02a2b6cfd59bedfca9ab0becb5e24752532591a17272629e77dce1"

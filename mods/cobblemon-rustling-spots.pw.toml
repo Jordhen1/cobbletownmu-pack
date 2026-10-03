@@ -1,0 +1,8 @@
+name = "cobblemon-rustling-spots"
+filename = "rustlingspots-fabric-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JqMS1LKC/versions/fYzaP7Aq/rustlingspots-fabric-5.0.1.jar"
+hash-format = "sha512"
+hash = "82cc539b3cbac57872dea98a32583b4e980dd3632bcf8b4d4d34c3b90a02304d4206de6bad8e498757f44208de413971a2bd7704d44d988859850499a1faa63f"

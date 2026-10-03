@@ -62,7 +62,7 @@ hash = "9655eff6eb5cb70d9b242529e9961f4a44a3bde30778c306cfe2ff3895bdf3c4"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "f705bc84f9b9b4c9d1a4826452e33757dccc754e623ae78eb4fe665f9b7b2a8c"
+hash = "adac19b4666920a25afd5c31279d8e9ee04242b902ffc2877453614c187e5ce9"
 
 [[files]]
 file = "config/cobblemon_battle_tower/skins/README.txt"

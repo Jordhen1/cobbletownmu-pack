@@ -1,0 +1,8 @@
+name = "cre"
+filename = "CRE-v0.0.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ovZcfCSI/versions/GnjhHy7y/CRE-v0.0.2-Fabric.jar"
+hash-format = "sha512"
+hash = "cc0f6d5f0a8456d4b03fc45b834392f70fe74935c781483a8938a0dfaafb8ad9119040b8286a94dc5e464b455f7ad12780033d274015ee3813ba2da9dd7191e0"

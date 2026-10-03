@@ -154,7 +154,7 @@ hash = "8940df321d8290f5783445ac133406886654a8890998955089dfa98ba658cca4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "74799d8c77672b2cdeaa345826ea80ebaefb0613da3dd115a2705e6e54e02176"
+hash = "22ea2d4403249f3c2cd313c8a08a638d1ed6aabb621dfddae04beb0482195d61"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -585,6 +585,11 @@ hash = "1f679e78e6bb64628264d5a2ea2c5cb29aca87053506afeb717c308424ddc643"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0b32c442095f28b6ce9d0733715eb0f3b63fae98366a4bf1447ed06210ba064b"
+metafile = true
+
+[[files]]
 file = "mods/catch-rate-display.pw.toml"
 hash = "15f7afc54275b39c7bc57f144ff0d3582420e56568e1b290a4a929cd53809f6e"
 metafile = true
@@ -705,6 +710,11 @@ hash = "645b031c86c16ca99f2c26dda29bf5709d7e0c4fc699403d907079bda52871b1"
 metafile = true
 
 [[files]]
+file = "mods/cre.pw.toml"
+hash = "370c53bf5d99c7662697a319e5ebcd0da5ae652a03b7af0a648578e04646c03f"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "d37a963ed14712169d039edf22ad021b4f28735d8b68bcc413b3e7b0801a2c0e"
 metafile = true
@@ -757,11 +767,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ded9aae48561c3721983ae189a23415e1a27ee10671e51a3decd0f2b80f1d246"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "005b6bf484a485e3a8844cff5da28c218e95bc03ec467df082201791a0f6d9ca"
 metafile = true
 
 [[files]]
@@ -912,6 +917,16 @@ metafile = true
 [[files]]
 file = "mods/textile_backup.pw.toml"
 hash = "670487b6f02fa90698586cec31c08b32ea535d14066767d80cbf1e95a95eb127"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "04271de98b3fa524d30bbe2748d8553c6728911573cb18502569a8035cc82596"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "423416a655e4dced56c2e6bb0fab0b17fb0c03b814297a96a8232035a5fa88ee"
 metafile = true
 
 [[files]]

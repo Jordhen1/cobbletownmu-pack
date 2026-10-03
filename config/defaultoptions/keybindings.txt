@@ -10,3 +10,9 @@ key_key.cobblemonraiddens.mouse:key.keyboard.right.alt
 key_iris.keybind.toggleShaders:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.f7
 key_iris.keybind.shaderPackSelection:key.keyboard.f8
+key_key.travelersbackpack.inventory:key.keyboard.b
+key_key.travelersbackpack.cycle_tool:key.keyboard.grave.accent
+key_key.toms_storage.open_terminal:key.keyboard.left.bracket
+key_gui.xaero_new_waypoint:key.keyboard.right.bracket
+key_key.fightorflight.startbattle:key.keyboard.g
+key_key.catchrate.show_comparison:key.keyboard.f4

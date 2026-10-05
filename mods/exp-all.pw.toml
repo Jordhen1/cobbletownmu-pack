@@ -1,0 +1,8 @@
+name = "exp-all"
+filename = "expall-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/56IRzrQd/versions/UiDo37ak/expall-1.0.9.jar"
+hash-format = "sha512"
+hash = "3e0077d5270eeed14546c0ef6c397539cfd69033f0a53e0386775afaa5da5fdc44e12eb12546e4565d38fa821272fabb6ee2871533fd92624d51939796b073e5"

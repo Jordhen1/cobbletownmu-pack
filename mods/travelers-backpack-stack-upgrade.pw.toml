@@ -1,0 +1,8 @@
+name = "travelers-backpack-stack-upgrade"
+filename = "tb_stack_upgrade-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B38a8kFB/versions/ZZQAD3qL/tb_stack_upgrade-1.1.0.jar"
+hash-format = "sha512"
+hash = "2284806f1cafc894b2614eda4d27ddb74a4dab99ed2ed23a2217ae702f2bef050854c419cbc706b1b43aff0e97ade0d44685f5403dc19637ebb22a013fcd4d44"

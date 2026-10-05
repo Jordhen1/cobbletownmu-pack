@@ -154,7 +154,7 @@ hash = "8940df321d8290f5783445ac133406886654a8890998955089dfa98ba658cca4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "22ea2d4403249f3c2cd313c8a08a638d1ed6aabb621dfddae04beb0482195d61"
+hash = "c3f780c3575e1567ceb86d230db8cad35b9b72a95953d581b22ea4522b61f089"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -610,8 +610,18 @@ hash = "cd847f159cc709a2591e0f054c27a63564872879372a32956d3632e73bd1cda1"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "4d0750c942e410743955b3dceed45387b2b3be0397156a63bcfef6e87f4140f1"
+metafile = true
+
+[[files]]
 file = "mods/cobbledex-rei-emi-jei.pw.toml"
 hash = "50f5892c21777e30eb401f5213ffbe818a5e7212d1cc663903a85f2e0a5652cf"
+metafile = true
+
+[[files]]
+file = "mods/cobblefurnies.pw.toml"
+hash = "356fb59a26b131ada97d78a49763d82ed6552ba26cd9460c5a78b78bb2ccfe8e"
 metafile = true
 
 [[files]]
@@ -637,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-economy.pw.toml"
 hash = "f1670a9a1aa1a5dd9d06af9d05332c1e33f433ee212bfeebe426d519947bcbdd"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-emi-compat.pw.toml"
+hash = "07c5a5d4ba9fd89fb6b909459abdc133002460090f829ce2fd810127639ff20d"
 metafile = true
 
 [[files]]
@@ -740,6 +755,11 @@ hash = "f90f785e0af87a02b2a5dd47b76fdb375a1f4f235cdec4f6ba3b8a0ef1ff276f"
 metafile = true
 
 [[files]]
+file = "mods/exp-all.pw.toml"
+hash = "99425947e01a9b44e10be09ee2a8959450e84b8ce3005580b639cbe0f7ce7eb3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e29bea461a11d36ff2c1386015637cb9303107a5f3432e6e7b38984df0af1f13"
 metafile = true
@@ -795,6 +815,11 @@ hash = "281e9c4d97f24146261bc07747b7c2cc514675f0968db95f346aac8ddd636a07"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "7001295e5f364bd0f89bff87640483eabc371c2beb54ab4b2f04b2c0e4015d2f"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "5fe537e9ad577d7ba67760fc6d649a3492f137959cd36ed89b004158a6a7a0c5"
 metafile = true
@@ -845,6 +870,11 @@ hash = "ba445749100ac87208d33be2093e50352edf8abc7cdcec9a33611ce0003cb5a7"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "68c0494dcade18d6f667bd3434b6ab6fbee5f26b88a4cb1c205bdd3eac0b459f"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "90480338b79f8d4910186e6978562fed6f2d698fa55343b795a6090dbc289ef7"
 metafile = true
@@ -862,6 +892,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "bd24e15c500142110b91b9d2e3c88048f3489c3f607353a6e2358fc54506019c"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "37341c7281c45cbbb6b1a015cdd7dc6f6debd04c46d1eecc9293330b0d921e83"
 metafile = true
 
 [[files]]
@@ -905,6 +940,16 @@ hash = "659fd3bf95c122d900d3a1de8678dd46283fff91f4a47916d49e0ff24211a431"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "3079b6789bf2e5b8319c5ecd2fff95de76cdf4d14573c3134faaf61481a71948"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "e2dc650a6eb7ed8e44bac205bfc7b61c8137b27b8cce068edaae1eb478e3dcd7"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "695ffb433aa85b19026cdaec921fb7ba5783a5e763a5c38114c54e1d53c4d2b5"
 metafile = true
@@ -922,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "04271de98b3fa524d30bbe2748d8553c6728911573cb18502569a8035cc82596"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-stack-upgrade.pw.toml"
+hash = "c680c10017e54837e3501053d090eb0b73661df773fd12c13b7e9132bd334fa0"
 metafile = true
 
 [[files]]

@@ -16,3 +16,4 @@ key_key.toms_storage.open_terminal:key.keyboard.left.bracket
 key_gui.xaero_new_waypoint:key.keyboard.right.bracket
 key_key.fightorflight.startbattle:key.keyboard.g
 key_key.catchrate.show_comparison:key.keyboard.f4
+key_keybind.sophisticatedstorage.sort:key.keyboard.0

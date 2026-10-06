@@ -1,0 +1,8 @@
+name = "vanish"
+filename = "vanish-1.6.16+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UL4bJFDY/versions/tK9T0u3x/vanish-1.6.16%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "f22bfb940fabdcfa1c9bc0a4364f1e3b6679d33db9fceda761dd0b0d094e19f3ef14716c0b302c233a63238d1c907b13dad0a08e6335f518babd82d2923de105"

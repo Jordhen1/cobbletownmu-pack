@@ -1,12 +1,12 @@
 name = "CobbleTownMU"
 author = "Jordhen"
-version = "1.6.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22a4713e5ecf581cf8a9636d9793d85fc118bfe365c0cd2d49cf6c83b93f7428"
+hash = "e0b58339086a9b7d6c27db4483f06dac4174b2ace3e2d7919e7d39fb82f13c7f"
 
 [versions]
 minecraft = "1.21.1"

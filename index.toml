@@ -158,7 +158,7 @@ hash = "c3f780c3575e1567ceb86d230db8cad35b9b72a95953d581b22ea4522b61f089"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "61b320c0dcb20cdeba14cb71847a6ab67c3a55af3cc26494e7a24e8fb4172364"
+hash = "e13c84374bd116760e8e34fd01903ce9e2cbec42fdda4875ca32677cc09156f4"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -585,6 +585,11 @@ hash = "1f679e78e6bb64628264d5a2ea2c5cb29aca87053506afeb717c308424ddc643"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "f8b5f8eb64cd30e1bbaa818e0cb16516cb9929ac2fe9f6deca4f2a2fd86116a7"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0b32c442095f28b6ce9d0733715eb0f3b63fae98366a4bf1447ed06210ba064b"
 metafile = true
@@ -665,6 +670,16 @@ hash = "0daab748cb8ba356a6b4f3995a748f2671bbb148f7ea2054569dc6a23921ff76"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pasture-loot-fix.pw.toml"
+hash = "a4665cc20576123775c4ddf0493435625711216190a7150b9db9efd97a0f6577"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pasture-loot.pw.toml"
+hash = "a84f91e402c4c17ed366a931278bd6b1cceb9d6c51b0b32f0fdd516db0bd67b4"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "81388e6a714144faa25455dd68d447956b6362e4aafe5c91c1b30c2e15797479"
 metafile = true
@@ -717,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "458ea9fc7a607733dd6c261e97fe6595e6f467aaabc4ce17a58bc507b2fc7eeb"
+metafile = true
+
+[[files]]
+file = "mods/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
+hash = "45a4c20f7d53d65761b7a6fc795973d19229dfd61c8bcdadc433b54026f3e316"
 metafile = true
 
 [[files]]
@@ -955,13 +975,13 @@ hash = "695ffb433aa85b19026cdaec921fb7ba5783a5e763a5c38114c54e1d53c4d2b5"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "7964f1da81bf6e1577ef828a4260cd90ccba69965379c0de0549d4ce51f4290f"
+file = "mods/tabtps.pw.toml"
+hash = "3785dbd4b4544aa993305c0685dc049d09efcfb28337587de97e5ec1742739a2"
 metafile = true
 
 [[files]]
-file = "mods/textile_backup.pw.toml"
-hash = "670487b6f02fa90698586cec31c08b32ea535d14066767d80cbf1e95a95eb127"
+file = "mods/terralith.pw.toml"
+hash = "7964f1da81bf6e1577ef828a4260cd90ccba69965379c0de0549d4ce51f4290f"
 metafile = true
 
 [[files]]
@@ -977,6 +997,16 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "423416a655e4dced56c2e6bb0fab0b17fb0c03b814297a96a8232035a5fa88ee"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "c59273f482ae0de3a2829af18cb5cc8606d3bf2c697805d8a46d47f288e3aa64"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "086646295ce044a7aa2a0916d6f298b9c673d5d2b6456cc444df3294962b8fda"
 metafile = true
 
 [[files]]
@@ -998,6 +1028,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6a0e2e6083a8aff25dc58df9f4903747c7e21e976c37902dec72249f655dcd06"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "e13c84374bd116760e8e34fd01903ce9e2cbec42fdda4875ca32677cc09156f4"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
